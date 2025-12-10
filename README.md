@@ -2,8 +2,6 @@
 
 ### A Budding Python & AI Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NPSS00AKSHITH&label=Profile views&color=0e75b6&style=flat" alt="NPSS00AKSHITH" /> </p>
-
 - 🔭 I'm currently working on **real-time AI systems using Python and agentic frameworks**
 
 - 🌱 I'm currently learning **sharpening my skills in building end-to-end AI applications.**
