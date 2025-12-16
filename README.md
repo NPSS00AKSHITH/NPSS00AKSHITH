@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image/spidey.jpg" alt="Banner" width="100%">
+  <img src="image/jujutsu.jpg" alt="Banner" width="100%">
 </div>
 
 # Hi, I'm Akshith! 👋
